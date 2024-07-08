@@ -1,4 +1,4 @@
-# Olá! me chamo Maicon Douglas 👋
+# Olá! eu sou Maicon Douglas 👋
 
 ## Sobre Mim
 - 🔭 Atualmente estou trabalhando em projetos de front-end com HTML, CSS e JavaScript
