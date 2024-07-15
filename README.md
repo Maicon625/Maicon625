@@ -18,7 +18,7 @@
 
 ## Projetos Destacados
 - [Carrossel Responsivo](https://github.com/Maicon625/carrossel-responsivo): Um carrossel de imagens interativo e responsivo usando HTML, CSS e JavaScript.
-- [Portfólio Pessoal](https://github.com/Maicon625/portfolio): Meu portfólio pessoal apresentando meus projetos e habilidades.
+- [Portfólio Pessoal](https://devfuturo.netlify.app/Maicon625/portfolio): Meu portfólio pessoal apresentando meus projetos e habilidades.
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Maicon625)
