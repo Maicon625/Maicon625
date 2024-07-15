@@ -17,7 +17,7 @@
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Maicon625&layout=compact&theme=radical)
 
 ## Projetos Destacados
-- [Carrossel Responsivo](https://maicon625.github.io/project/projeto1//Maicon625/carrossel-responsivo): Um carrossel de imagens interativo e responsivo usando HTML, CSS e JavaScript.
+- [Carrossel Responsivo](https://maicon625.github.io/project/projeto1/Maicon625/carrossel-responsivo): Um carrossel de imagens interativo e responsivo usando HTML, CSS e JavaScript.
 - [Portfólio Pessoal](https://devfuturo.netlify.app/Maicon625/portfolio): Meu portfólio pessoal apresentando meus projetos e habilidades.
 
 ## Conecte-se Comigo
