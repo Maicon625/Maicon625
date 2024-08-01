@@ -17,7 +17,7 @@
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Maicon625&layout=compact&theme=radical)
 
 ## Projetos Destacados
-- [Carrossel Responsivo](https://tecninvest.netlify.app): Um carrossel de imagens interativo e responsivo usando HTML, CSS e JavaScript.
+- [Simulador de ações front-end Responsivo](https://tecninvest.netlify.app): Um simulador de ações responsivo usando HTML, CSS e JavaScript.
 - [Portfólio Pessoal](https://tecnologiainvest.com.netlify.app): Meu portfólio pessoal apresentando meus projetos e habilidades.
 
 ## Conecte-se Comigo
