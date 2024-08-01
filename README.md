@@ -18,7 +18,7 @@
 
 ## Projetos Destacados
 - [Simulador de ações front-end Responsivo](https://tecninvest.netlify.app): Um simulador de ações responsivo usando HTML, CSS e JavaScript.
-- [Portfólio Pessoal](https://tecnologiainvest.com.netlify.app): Meu portfólio pessoal apresentando meus projetos e habilidades.
+- [Cafeteria front-end](https://cafecomtroco.netlify.app): apresentando meus projetos e habilidades.
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Maicon625)
